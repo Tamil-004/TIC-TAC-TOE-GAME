@@ -30,8 +30,8 @@ Tapit is a dynamic Tic Tac Toe game for Android where each player's 4th move mak
 ## Contact
 For any inquiries or suggestions, feel free to reach out:
 
-- Email: akilanm416@gmail.com
-- GitHub: [Flameboy2003](https://github.com/Flameboy2003)
+- Email: tamilvananvm@gmail.com
+- GitHub: [Tamil-004](https://github.com/Flameboy2003)
 
 ---
 
