@@ -13,14 +13,7 @@ Tapit is a dynamic Tic Tac Toe game for Android where each player's 4th move mak
 
 
 
-## Installation
 
-1. Clone the repository:
-    ```bash
-    [https://github.com/Tamil-004]
-    ```
-2. Open the project in Android Studio.
-3. Build the project and run it on an Android emulator or a physical device.
 ## How to Play
 1. Enter the names of both players.
 2. Take turns tapping on the grid to place your marker (X or O).
