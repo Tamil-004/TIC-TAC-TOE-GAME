@@ -17,7 +17,7 @@ Tapit is a dynamic Tic Tac Toe game for Android where each player's 4th move mak
 
 1. Clone the repository:
     ```bash
-    https://github.com/Flameboy2003/Tap-iT-.git
+    [https://github.com/Tamil-004]
     ```
 2. Open the project in Android Studio.
 3. Build the project and run it on an Android emulator or a physical device.
@@ -31,7 +31,7 @@ Tapit is a dynamic Tic Tac Toe game for Android where each player's 4th move mak
 For any inquiries or suggestions, feel free to reach out:
 
 - Email: tamilvananvm@gmail.com
-- GitHub: [Tamil-004](https://github.com/Flameboy2003)
+- GitHub: [Tamil-004](https://github.com/Tamil-004)
 
 ---
 
